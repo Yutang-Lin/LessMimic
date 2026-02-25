@@ -1,6 +1,12 @@
-# LessMimic
+[![teaser](./resources/teaser.png "LessMimic")](https://lessmimic.github.io)
+<div id="top" align="left">
 
-### Long-Horizon Humanoid Interaction with Unified Distance Field Representations
+[![paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)](https://lessmimic.github.io/static/pdfs/lessmimic.pdf)
+[![github](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://lessmimic.github.io/)
+[![demo](https://img.shields.io/badge/Live_Demo-MuJoCo-2ea44f?logo=googlechrome&logoColor=white)](https://lessmimic.github.io/#live-demo-section)
+</div>
+
+# LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations
 
 [Yutang Lin](https://yutang-lin.github.io/)\*,
 [Jieming Cui](https://jiemingcui.github.io/)\*,
@@ -10,12 +16,6 @@
 [Siyuan Huang](https://siyuanhuang.com/)&dagger;
 
 <sub>\* Equal contribution &nbsp; &dagger; Corresponding author</sub>
-
-**[Project Page](https://lessmimic.github.io)** | **[Paper](https://lessmimic.github.io/static/pdfs/lessmimic.pdf)** | **[Live Demo](https://lessmimic.github.io/#live-demo-section)**
-
----
-
-![model](model.png)
 
 ## Abstract
 
