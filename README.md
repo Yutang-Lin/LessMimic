@@ -1,6 +1,7 @@
 [![teaser](./resources/teaser.png "LessMimic")](https://lessmimic.github.io)
 <div id="top" align="left">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.21723-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.21723)
 [![paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)](https://lessmimic.github.io/static/pdfs/lessmimic.pdf)
 [![github](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://lessmimic.github.io/)
 [![demo](https://img.shields.io/badge/Live_Demo-MuJoCo-2ea44f?logo=googlechrome&logoColor=white)](https://lessmimic.github.io/#live-demo-section)
@@ -31,7 +32,8 @@ Code will be released. Stay tuned.
 @article{lin2026lessmimic,
   title={LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations},
   author={Lin, Yutang and Cui, Jieming and Li, Yixuan and Jia, Baoxiong and Zhu, Yixin and Huang, Siyuan},
-  journal={Preprint},
-  url={https://lessmimic.github.io/}
+  journal={arXiv preprint arXiv:2602.21723},
+  year={2026},
+  url={https://arxiv.org/abs/2602.21723}
 }
 ```
