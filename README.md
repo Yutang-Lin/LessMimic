@@ -1,3 +1,5 @@
+
+
 [![teaser](./resources/teaser.png "LessMimic")](https://lessmimic.github.io)
 <div id="top" align="left">
 
@@ -24,7 +26,7 @@ Humanoid robots that autonomously interact with physical environments over exten
 
 ## Code
 
-Code will be released. Stay tuned.
+The source code will be made publicly available upon publication.
 
 ## Citation
 
